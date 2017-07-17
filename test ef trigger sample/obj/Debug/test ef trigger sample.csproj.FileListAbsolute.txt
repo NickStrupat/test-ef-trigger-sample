@@ -1,0 +1,20 @@
+D:\Projects\Test\test ef trigger sample\test ef trigger sample\bin\Debug\test ef trigger sample.exe.config
+D:\Projects\Test\test ef trigger sample\test ef trigger sample\bin\Debug\test ef trigger sample.exe
+D:\Projects\Test\test ef trigger sample\test ef trigger sample\bin\Debug\test ef trigger sample.pdb
+D:\Projects\Test\test ef trigger sample\test ef trigger sample\bin\Debug\CoContra.net45.dll
+D:\Projects\Test\test ef trigger sample\test ef trigger sample\bin\Debug\EntityFramework.dll
+D:\Projects\Test\test ef trigger sample\test ef trigger sample\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Test\test ef trigger sample\test ef trigger sample\bin\Debug\EntityFramework.Triggers.net45.dll
+D:\Projects\Test\test ef trigger sample\test ef trigger sample\bin\Debug\EntityFramework.TypedOriginalValues.dll
+D:\Projects\Test\test ef trigger sample\test ef trigger sample\bin\Debug\System.Collections.Immutable.dll
+D:\Projects\Test\test ef trigger sample\test ef trigger sample\bin\Debug\EntityFramework.xml
+D:\Projects\Test\test ef trigger sample\test ef trigger sample\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Test\test ef trigger sample\test ef trigger sample\bin\Debug\System.Collections.Immutable.xml
+D:\Projects\Test\test ef trigger sample\test ef trigger sample\obj\Debug\test_ef_trigger_sample.Properties.Resources.resources
+D:\Projects\Test\test ef trigger sample\test ef trigger sample\obj\Debug\test ef trigger sample.csproj.GenerateResource.Cache
+D:\Projects\Test\test ef trigger sample\test ef trigger sample\obj\Debug\test ef trigger sample.exe
+D:\Projects\Test\test ef trigger sample\test ef trigger sample\obj\Debug\test ef trigger sample.pdb
+D:\Projects\Test\test ef trigger sample\test ef trigger sample\obj\Debug\test_ef_trigger_sample.Migrations.InitialCreate.resources
+D:\Projects\Test\test ef trigger sample\test ef trigger sample\obj\Debug\test_ef_trigger_sample.Migrations.m1.resources
+D:\Projects\Test\test ef trigger sample\test ef trigger sample\obj\Debug\test_ef_trigger_sample.Migrations.m2.resources
+D:\Projects\Test\test ef trigger sample\test ef trigger sample\obj\Debug\test_ef_trigger_sample.Form1.resources
